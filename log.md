@@ -20,10 +20,10 @@ Too tired today to work on something code-related, so for the rest of the night 
 https://github.com/kefimochi/CIS-35B/tree/master/Lab%203
 
 **Plans for tomorrow:**
-1. Fix errors with Django app and continue working on it.
-2. Read about fixing Value Error in train_test_split
-3. Python exercises and algorthms (at least one chunk (45minutes))
-4. C++ course (one chunk 45minutes)
+1. Do at least 2-3 #javascript30 exercises, while also trying to add extra features to each
+2. Decide on what topic to focus my first blog post, as well as start writing for it. So far leaning towards lessons learned during my first year of teaching myself how to code.
+3. Think of any funny comic or sticker ideas. Coding plus creativity is the best!
+4. Watch at least 2-3 videos about multithreading in Java and compare it to async JavaScript
 
 **Resources:**
 * https://www.geeksforgeeks.org/java-util-hashmap-in-java/ - Hash map in Java
