@@ -1,5 +1,28 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 2: May 25, 2019
+
+**Plans for Today:**
+1. Do at least 2-3 #javascript30 exercises, while also trying to add extra features to each
+2. Decide on what topic to focus my first blog post, as well as start writing for it. So far leaning towards lessons learned during my first year of teaching myself how to code.
+3. Think of any funny comic or sticker ideas. Coding plus creativity is the best!
+4. Watch at least 2-3 videos about multithreading in Java and compare it to async JavaScript
+
+**Today's Progress:**
+
+
+**Thoughts:**
+
+
+**Link to work:**
+
+
+**Plans for tomorrow:**
+
+
+**Resources:**
+
+
 ### Day 1: May 24, 2019
 
 **Plans for Today:**
