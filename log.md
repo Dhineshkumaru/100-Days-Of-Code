@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 3: May 26, 2019
+
+**Plans for Today:**
+
+1. Spend 3-4 hours writing and refactoring code for the extension. Fail, try again, fail, try even more.
+
+**Today's Progress:**
+
+1. Watched some YouTube videos about multithreading in Java
+2. Read lab description and started to brainstorm how I can implement it
+
+**Thoughts:**
+I'm getting a huge feeling of dissatisfaction at night right now when looking back at the progress of Round 2. I drew even more but drawing does not nearly make me feel as productive as coding :<. Have to find the right combination of enjoying drawing at the same time as getting shit done with coding.
+
+**Link to work:**
+*None*
+
+**Plans for tomorrow:**
+
+1. Start working on the lab
+2. Tackle the multithreading in the driver first, then everywhere else.
+3. Do a few of JavaScript30, only have a few days left and need to finish it asap.
+
+**Resources:**
+- https://www.youtube.com/watch?v=Xj1uYKa8rIw - Multithreading in Java
+
+
 ### Day 2: May 25, 2019
 
 **Plans for Today:**
@@ -26,7 +53,6 @@ https://github.com/kefimochi/MDN-Search/tree/master/V.1.2-UX%20Friendly
 1. Spend 3-4 hours writing and refactoring code for the extension. Fail, try again, fail, try even more.
 
 **Resources:**
-
 - https://codepen.io/KateEfimova/pen/dEemmQ - Found this code that contains an answer to what I'm trying to build
 
 ### Day 1: May 24, 2019
@@ -58,6 +84,5 @@ https://github.com/kefimochi/CIS-35B/tree/master/Lab%203
 4. Watch at least 2-3 videos about multithreading in Java and compare it to async JavaScript
 
 **Resources:**
-
 - https://www.geeksforgeeks.org/java-util-hashmap-in-java/ - Hash map in Java
 - https://docs.oracle.com/javase/8/docs/api/java/util/HashMap.html - Hash map in Java
