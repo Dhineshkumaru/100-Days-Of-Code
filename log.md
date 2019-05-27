@@ -22,6 +22,7 @@ I'm getting a huge feeling of dissatisfaction at night right now when looking ba
 1. Start working on the lab
 2. Tackle the multithreading in the driver first, then everywhere else.
 3. Do a few of JavaScript30, only have a few days left and need to finish it asap.
+4. Fix Femochi's Colors first section, spend a few hours to finally get unstack
 
 **Resources:**
 - https://www.youtube.com/watch?v=Xj1uYKa8rIw - Multithreading in Java
