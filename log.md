@@ -10,6 +10,7 @@
 
 1. Helped Shoha again to debug what was happening in his code through watching screenshots. Turns out he was calling a file from 'js' folder when that file was actually outside.
 2. Listedned to a twenty minute episode of The Console Log podcast
+3. Figured out how to finally(at like 12am) be able to have all my code from CodePen transformed into VSCode. I used Prepros to trasnform SCSS into CSS. It also looked like I had some old html code previously on GitHub, so updated it to proper code.
 
 **Thoughts:**
 Spent a lot of time on writing a three page Pop Culture midterm today.
