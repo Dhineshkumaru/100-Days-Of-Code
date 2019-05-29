@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 5: May 28, 2019
+
+**Plans for Today:**
+
+1. Work on lab 4 because it will be due today
+
+**Today's Progress:**
+
+1. Helped Shoha again to debug what was happening in his code through watching screenshots. Turns out he was calling a file from 'js' folder when that file was actually outside.
+2. Listedned to a twenty minute episode of The Console Log podcast
+
+**Thoughts:**
+Spent a lot of time on writing a three page Pop Culture midterm today.
+
+**Link to work:**
+*None*
+
+**Plans for tomorrow:**
+
+1. Congradulate Vlad at being accepted to Lambda School with me(which I'm confident will happen)
+2. Re-factor Femochi's Colors code into something more redable and less overwhelming
+3. Listen to three or more The Console Log episodes
+
+**Resources:**
+*None*
+
+
 ### Day 4: May 27, 2019
 
 **Plans for Today:**
