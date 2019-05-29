@@ -1,5 +1,34 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 4: May 27, 2019
+
+**Plans for Today:**
+
+1. Start working on the lab
+2. Tackle the multithreading in the driver first, then everywhere else.
+3. Do a few of JavaScript30, only have a few days left and need to finish it asap.
+4. Fix Femochi's Colors first section, spend a few hours to finally get unstack
+
+**Today's Progress:**
+
+1. Found a way to implement slanted divs, and was able to add icons to it. Nevertheless, now I need to actually implement it in Femochi's Colors website.
+2. Helped Shoha with his CSS code. He was struggling to figure out why certain images were very small on the page instead of a size he was expecting. I took a look at his code and the page using Chrome Dev Tools. Turns out he put that section into a big profile div that had a margin of 400px, so the simple solution was to just move that code outside profile's div.
+3. Learned that browsers don't support raw SCSS and Sass, and that in order to use it in VSCode I'll have to first convert it to CSS.
+
+**Thoughts:**
+Went to play bouling with my friends. The amount of CSS code(~500 lines) I have in CodePen for Femochi's Colors is overwhelming, so in order to spend productive time working on it I'll have to figure out how to deal with it.
+
+**Link to work:**
+*None*
+
+**Plans for tomorrow:**
+
+1. Work on lab 4 because it will be due tomorrow
+
+**Resources:**
+*None*
+
+
 ### Day 3: May 26, 2019
 
 **Plans for Today:**
