@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 6: May 29, 2019
+
+**Plans for Today:**
+
+1. Re-factor Femochi's Colors code into something more redable and less overwhelming
+2. Listen to three or more The Console Log episodes
+
+**Today's Progress:**
+
+1. Finally completely transfered all the code from CodePen to VSCode for Femochi's Colors, so much easier to read and to test now!
+2. Listened to two The Console Log podcast episodes
+3. Figured out how to create slanted sections using a polygon shape, whereas previoussly I tried doing it using :after.
+
+**Thoughts:**
+It is an infinite enjoyment to see no CodePen navigation bar for me, it gives me inspiration to finish this front end as soon as possible.
+
+**Link to work:**
+https://github.com/kefimochi/Variety-of-code/tree/master/Femochi's%20Colors
+
+**Plans for tomorrow:**
+
+1. Now that icon section is 100% done, I am planning to finish styling of first section completely in order to move on to "About" section.
+2. Practice multithreading in Java, as well as start working on lab 4.
+
+**Resources:**
+https://pjdwebdesign.com/ - Helpful and inspiring
+
+
 ### Day 5: May 28, 2019
 
 **Plans for Today:**
