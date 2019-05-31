@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 7: May 30, 2019
+
+**Plans for Today:**
+
+1. Now that icon section is 100% done, I am planning to finish styling of first section completely in order to move on to "About" section.
+2. Practice multithreading in Java, as well as start working on lab 4.
+
+**Today's Progress:**
+
+1. Learned about Web Workers in JavaScript, which essencially allow multithreaing in the background of JS's main thread. "Data is sent between the main thread and workers through messages. Since these workers run on a separate thread than the main execution thread, you can utilize web workers to run process intensive tasks from the browser without creating blocking instances."
+2. Created an "Order Now" button with an SVG icon in the first section of Femochi's Colors
+
+**Thoughts:**
+Could have stayed up late in order to learn or build even more but wanted to get a delightful sleep today. Can't believe I spend so much time with my friends! :O
+
+**Link to work:**
+https://github.com/kefimochi/Variety-of-code/tree/master/Femochi's%20Colors
+
+**Plans for tomorrow:**
+
+1. Finish styling of first section completely in order to move on to "About" section.
+2. Practice multithreading in Java, as well as start working on lab 4.
+
+**Resources:**
+https://medium.com/techtrument/multithreading-javascript-46156179cf9a - Web workers in JavaScript
+
+
 ### Day 6: May 29, 2019
 
 **Plans for Today:**
