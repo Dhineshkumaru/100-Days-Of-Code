@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 9: June 1, 2019
+
+**Plans for Today:**
+
+1. Sit down and finish lab 4.
+
+**Today's Progress:**
+
+1. Edited lab 3 to fit class' criteria, aka moved my linked hash map from the driver to ProxyAuto in order for it to be even more reusable. Code looks so much cleaner now!
+2. Watched various videos on YouTube about Java multithreading, a lot of these were hard to understand due to speakers' accents :<
+3. Figured out how to import jQuery in html, so my JS now works in Femochi's Colors. Yay!
+4. Spent time figureing out how to achieve smooth scrolling and why does mobile view using CodePen is different from local.
+
+**Thoughts:**
+
+
+**Link to work:**
+https://github.com/kefimochi/CIS-35B/tree/master/Lab%204
+
+**Plans for tomorrow:**
+
+1.
+
+**Resources:**
+https://www.youtube.com/watch?v=8bSlaGsG4dk - Good video explaining multithreading
+
+
 ### Day 8: May 31, 2019
 
 **Plans for Today:**
