@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 8: May 31, 2019
+
+**Plans for Today:**
+
+1. Finish styling of first section completely in order to move on to "About" section.
+2. Practice multithreading in Java, as well as start working on lab 4.
+
+**Today's Progress:**
+
+1. Read an article today about multithreading using Node.js. "Worker pool is an execution model that spawns and handles separate threads, which then synchronously perform the task and return the result to the event loop. The event loop then executes the provided callback with said result."
+
+**Thoughts:**
+Damn, I have never really followed my plans :D Perhaps I should start setting more realistic every day goals?
+
+**Link to work:**
+*None*
+
+**Plans for tomorrow:**
+
+1. Sit down and finish lab 4.
+
+**Resources:**
+https://blog.logrocket.com/a-complete-guide-to-threads-in-node-js-4fa3898fe74f/ - Multithreading in Node.js
+
+
 ### Day 7: May 30, 2019
 
 **Plans for Today:**
