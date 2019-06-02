@@ -11,20 +11,26 @@
 1. Edited lab 3 to fit class' criteria, aka moved my linked hash map from the driver to ProxyAuto in order for it to be even more reusable. Code looks so much cleaner now!
 2. Watched various videos on YouTube about Java multithreading, a lot of these were hard to understand due to speakers' accents :<
 3. Figured out how to import jQuery in html, so my JS now works in Femochi's Colors. Yay!
-4. Spent time figureing out how to achieve smooth scrolling and why does mobile view using CodePen is different from local.
+4. Spent time figureing out how to achieve smooth scrolling and why does mobile view using CodePen is different from local. After some time I managed to make it work by checking 'textContent' for every link. Turns out 'innerHTML' is a whole HTML of an element, while 'textContent' only demonstrates what text is inside the element. Still, smooth scrolling does not work as intended because it jumps randomly on a page after the first time it was clicked.
+5. Refactored more code for first section, I feel like I'm slowly getting somewhere closer to where I want it to be.
+6. Finished lab 4 that further enriched my knowledge of interfaces and multithreaing. 
 
 **Thoughts:**
-
+Wow, I've been quite productive today. Not on a level of professional-productive, but Kate-level productive :)
 
 **Link to work:**
 https://github.com/kefimochi/CIS-35B/tree/master/Lab%204
+https://github.com/kefimochi/Variety-of-code/tree/master/Femochi's%20Colors
 
 **Plans for tomorrow:**
 
-1.
+1. Find the styling for the first section that you like more or less and stick to it
+2. Fix smooth scrolling issue
 
 **Resources:**
-https://www.youtube.com/watch?v=8bSlaGsG4dk - Good video explaining multithreading
+https://www.youtube.com/watch?v=8bSlaGsG4dk - Good video explaining Java multithreading
+https://www.youtube.com/watch?v=oUSvlrDTLi4 - Vanilla js smooth scroll
+http://gizma.com/easing/ - Great resource for easing animations(!)
 
 
 ### Day 8: May 31, 2019
