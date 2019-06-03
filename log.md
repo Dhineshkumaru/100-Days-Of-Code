@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 10: June 2, 2019
+
+**Plans for Today:**
+
+1. Find the styling for the first section that you like more or less and stick to it
+2. Fix smooth scrolling issue
+
+**Today's Progress:**
+
+1. Watched a bit more videos on multithreading
+2. Tweaked Femochi's Colors page a tiny bit
+
+**Thoughts:**
+Spent a whole day hanging out with friends, so not much done. Also had to work on a tapestry project in the evening :<
+
+**Link to work:**
+https://github.com/kefimochi/CIS-35B/tree/master/Lab%204
+
+**Plans for tomorrow:**
+
+1. Read lab 5 and start brainstormin some of the structure
+2. Start working on section 3 of the Femochi's Colors
+
+**Resources:**
+https://www.youtube.com/watch?v=TCd8QIS-2KI - Multithreading
+
+
 ### Day 9: June 1, 2019
 
 **Plans for Today:**
