@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 11: June 3, 2019
+
+**Plans for Today:**
+
+1. Read lab 5 and start brainstormin some of the structure
+2. Start working on section 3 of the Femochi's Colors
+
+**Today's Progress:**
+
+1. Listened to two episodes of The Console Log podcast, I reached a point when there are now longer episodes with two hosts! Excited to listen to more news from a year ago as I am slowly catching up :)
+2. Took notes on beginning Node.js YouTube video that I linked under 'Resources', as well as followed along the tutorial and left useful comments on the side of the application. Created my first tiny server by hand today, which just prints 'Hello there :>'!
+
+**Thoughts:**
+Only got an hour in the evening to code/learn something new, so I decided to advance my theoretical knowledge today.
+
+**Link to work:**
+*None*
+
+**Plans for tomorrow:**
+
+1. Continue learning node.js, perhaps watch a few beginner videos or 1-2 mid-level ones
+2. Start diving into React using either React documentation or one resource(out of countless I already have)
+
+**Resources:**
+https://www.youtube.com/watch?v=U8XF6AFGqlc - Intro to Node.js and use of servers
+
+
 ### Day 10: June 2, 2019
 
 **Plans for Today:**
