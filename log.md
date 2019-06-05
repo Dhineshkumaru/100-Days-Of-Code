@@ -1,5 +1,35 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 12: June 4, 2019
+
+**Plans for Today:**
+
+1. Continue learning node.js, perhaps watch a few beginner videos or 1-2 mid-level ones
+2. Start diving into React using either React documentation or one resource(out of countless I already have)
+
+**Today's Progress:**
+
+1. Finished another The Console Log podcast episode, as well as finishined an episode of a new podcast I just started today: Tech Jr.
+2. Learned that Node.js is not a programming lamguage nor a framework, instead it is a runtime environement for executing JavaScript code.
+3. Watched Apple's WWDC19 keynote on YouTube to get an idea whats all the fuss going on Twitter :D
+
+**Thoughts:**
+Lately I've been spending on average 3-4 hours every day on playing cards with friends. No regrets, I can always pick up programming but making lasting friendships is way more complicated. There's less work to do for the rest of this week for De Anza, so I am planning to be more productive later.
+
+**Link to work:**
+*None*
+
+**Plans for tomorrow:**
+
+1. Either fix an issue with navigation scrolling on Femochi's Colors or find a different way to implement it and make it work properly
+2. Listen to an episode or two of Tech Jr, loved this podcast <3
+
+**Resources:**
+https://www.youtube.com/watch?v=jOupHNvDIq8 - How Node.js works under the hood
+https://www.youtube.com/watch?v=TlB_eWDSMt4 - Learning Node.js in one hour
+https://www.youtube.com/watch?v=SAh30bOsvgU - Apple's WWDC19 keynote
+
+
 ### Day 11: June 3, 2019
 
 **Plans for Today:**
