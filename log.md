@@ -11,6 +11,7 @@
 
 1. Read 3 emails from Chris Ferdinandi's email newsletter
 2. Got inspired by one of the emails that talked about how to pick a random color with Vanilla JS and had an idea of implementing a quick application that allows user to randomly change background color. Wrote that webpage in just thirty minutes, felt so proud of myself!
+3. Nearly at 12 am I finally implemented accessibility feature that tell the current color or "Current color was not accessible, defaulted to black!"
 
 **Thoughts:**
 Someone gave me an idea of implementing a feature that tests whether or not a color is accessible and if not changing it to black. Now I need to figure out how exactly to implement it!
@@ -20,7 +21,7 @@ https://github.com/kefimochi/Variety-of-code/tree/master/Random%20Background%20C
 
 **Plans for tomorrow:**
 
-1. Add a feature that tests for accessibility to the background picker
+1. Perhaps write an article about how I did that random background picker
 
 **Resources:**
 https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_document_createtextnode2 - Appending to innerHTML of the page
