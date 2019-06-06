@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 13: June 5, 2019
+
+**Plans for Today:**
+
+1. Either fix an issue with navigation scrolling on Femochi's Colors or find a different way to implement it and make it work properly
+2. Listen to an episode or two of Tech Jr, loved this podcast <3
+
+**Today's Progress:**
+
+1. Read 3 emails from Chris Ferdinandi's email newsletter
+2. Got inspired by one of the emails that talked about how to pick a random color with Vanilla JS and had an idea of implementing a quick application that allows user to randomly change background color. Wrote that webpage in just thirty minutes, felt so proud of myself!
+
+**Thoughts:**
+Someone gave me an idea of implementing a feature that tests whether or not a color is accessible and if not changing it to black. Now I need to figure out how exactly to implement it!
+
+**Link to work:**
+https://github.com/kefimochi/Variety-of-code/tree/master/Random%20Background%20Color%20Picker - Random Background picker
+
+**Plans for tomorrow:**
+
+1. Add a feature that tests for accessibility to the background picker
+
+**Resources:**
+https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_document_createtextnode2 - Appending to innerHTML of the page
+
+
 ### Day 12: June 4, 2019
 
 **Plans for Today:**
