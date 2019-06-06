@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 14: June 6, 2019
+
+**Plans for Today:**
+
+1. Instead of changing background color to black when colors are inaccessible, change the text color to black
+2. Write the same generator but with hex code instead of standard colors
+3. Change plain background generator to a gradient generator
+4. Write a feature that will avoid same colors being generated
+
+**Today's Progress:**
+
+1. In about ten minutes refactored some code so that whenever the generated color is yellow, it would instead change all the text on the page from white to black.
+
+**Thoughts:**
+
+
+**Link to work:**
+https://github.com/kefimochi/Variety-of-code/tree/master/Random%20Background%20Color%20Picker - Random Background picker
+
+**Plans for tomorrow:**
+
+1. 
+
+**Resources:**
+
+
+
 ### Day 13: June 5, 2019
 
 **Plans for Today:**
