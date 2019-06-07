@@ -12,19 +12,24 @@
 **Today's Progress:**
 
 1. In about ten minutes refactored some code so that whenever the generated color is yellow, it would instead change all the text on the page from white to black.
+2. Added copy to clipboard button and spent at least an hour struggling to make JS copy the color. Will continue working on it tomorrow
+3. Now it acceptes hex colors(aka "#ffffff" instead of "white")
+4. Learned that in JS empty array plus another empty arraay returns an empty string. As well as looked at other unexpected JS behaviors
 
 **Thoughts:**
-
+Its been first 2 weeks, yay!
 
 **Link to work:**
 https://github.com/kefimochi/Variety-of-code/tree/master/Random%20Background%20Color%20Picker - Random Background picker
 
+
 **Plans for tomorrow:**
 
-1. 
+1. Implement a feature that copies random color to the clipboard
+2. Somehow als check whether or not the contrast between background and foreground is accessible
 
 **Resources:**
-
+https://www.destroyallsoftware.com/talks/wat - Wat at JS
 
 
 ### Day 13: June 5, 2019
