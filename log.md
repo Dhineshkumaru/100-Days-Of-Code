@@ -1,5 +1,34 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 15: June 7, 2019
+
+**Plans for Today:**
+
+1. Implement a feature that copies random color to the clipboard
+2. Somehow als check whether or not the contrast between background and foreground is accessible
+
+**Today's Progress:**
+
+1. Learned that surprisingly 'true + true' will return 2 in JavaScript :O
+2. Used hints to help a fellow Lambda student solve Lambda challenges. At the end of it I also provided him
+an explanation of why what he did worked or didn't to deeper his understanding
+3. In the end solved 3 Lambda challenges on my own. Pushed the guy slowly in the right direction with his way of logival thinking.
+
+**Thoughts:**
+Found a cool comic called "Ava's Demon" and fell in love with the artstyle. Binge-read 2438 pages in one day XDD
+
+**Link to work:**
+*None*
+
+**Plans for tomorrow:**
+
+1. Watch YouTube videos about running servers in Java
+2. Start working on lab 5
+
+**Resources:**
+https://www.youtube.com/watch?v=et8xNAc2ic8 - WTFJS
+
+
 ### Day 14: June 6, 2019
 
 **Plans for Today:**
@@ -21,7 +50,6 @@ Its been first 2 weeks, yay!
 
 **Link to work:**
 https://github.com/kefimochi/Variety-of-code/tree/master/Random%20Background%20Color%20Picker - Random Background picker
-
 
 **Plans for tomorrow:**
 
