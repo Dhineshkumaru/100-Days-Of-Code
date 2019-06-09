@@ -11,6 +11,7 @@
 
 1. Finally transitioned the random background picker into random gradient generator.
 2. Not only it now generates a gradient but also whenever a user presses 'copy' button, it copies down the generated CSS for user's convenience: 'background-image: linear-gradient(to top right, #2d1dba, #f772ff);'.
+3. Turns out whenever there are two white colors generated it is actually a lack of any color b/c such generated hex'es do not exist! Woah, need to figure out how to tackle this!
 
 **Thoughts:**
 Surprised that I still did not skip a single day on #100DaysOfCode :O You go, gurl!
@@ -21,7 +22,6 @@ https://github.com/kefimochi/Variety-of-code/tree/master/Random%20Background%20C
 **Plans for tomorrow:**
 
 1. Start figuring out how to compare the contrat between the background and the foreground in order to change text to black whenever needed in that Random Gradient Generator
-2. Why sometimes it generates two whites at the same time? Figure it out!
 
 **Resources:**
 https://techoverflow.net/2018/03/30/copying-strings-to-the-clipboard-using-pure-javascript/ - Copying strings to the clipboard
