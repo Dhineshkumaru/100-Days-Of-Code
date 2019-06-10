@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 2
 
+
+### Day 17: June 9, 2019
+
+**Plans for Today:**
+
+1. Start figuring out how to compare the contrat between the background and the foreground in order to change text to black whenever needed in that Random Gradient Generator
+
+**Today's Progress:**
+
+1. Read an article about the use of SASS/SCSS and how it is more useful than standard CSS. Took thorough notes on it
+2. After learning about 'partials' in SASS, I refactored code in Femochi's colors from one giant SCSS file that I hated to use into minor files. It will be easier to manage them in the future.
+3. Turns out that in order to access any folder in a directory, I have to use this syntax "../images/background-first.jpg"). Even if folder name is uppercase, when calling it in VSCode it has to be lowercase(!)
+
+**Thoughts:**
+*None*
+
+**Link to work:**
+https://github.com/kefimochi/Variety-of-code/tree/master/Femochi's%20Colors
+
+**Plans for tomorrow:**
+
+1. Continue writing an article about how to copy something to user's clipboard
+
+**Resources:**
+https://itnext.io/starting-with-sass-116f4ecb682d - Article about SASS
+
+
 ### Day 16: June 8, 2019
 
 **Plans for Today:**
