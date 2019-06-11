@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 18: June 10, 2019
+
+**Plans for Today:**
+
+1. Continue writing an article about how to copy something to user's clipboard
+
+**Today's Progress:**
+
+1. Spent a ton of time today on the 'About' section of Femochi's Colors. Decided to go with a manimalistic view thus far
+2. Finished the desktop version at first after reading an article of how to make an image float to the right instead of being right under. Then used media queries to make it go under when the text would get too small.
+
+**Thoughts:**
+Feel so proud of my work today and my ability to keep going even when stuck!
+Parked a car today for the first time as my friends were teaching me how to drive. And yes, I didn't get my licence like other teens at 16 years old :>
+
+**Link to work:**
+https://github.com/kefimochi/Variety-of-code/tree/master/Femochi's%20Colors
+
+**Plans for tomorrow:**
+
+1. Figure out a way to make 'About' section as unique as the rest of the website. SO far I've been thinking about doing a small 5px colored border but because the top of this section is slanted, its complicated to do it :<
+2. Work on lab 5, the deadline is approaching!
+
+**Resources:**
+https://medium.com/@PavelLaptev/css-weekly-2-an-image-on-the-left-text-on-the-left-a5e59b2acdb5 - Article about how to make picture float next to the text
+
 
 ### Day 17: June 9, 2019
 
