@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 19: June 11, 2019
+
+**Plans for Today:**
+
+1. Figure out a way to make 'About' section as unique as the rest of the website. SO far I've been thinking about doing a small 5px colored border but because the top of this section is slanted, its complicated to do it :<
+2. Work on lab 5, the deadline is approaching!
+
+**Today's Progress:**
+
+1. Added meta tags, thus making the website look good on all mobile versions. People on Twitter helped with this issue <3
+2. Solved the problem with adding colored border to the About section by adding z-index to icons section and about
+section, and then adding top padding to about section while also moving it up. Not sure if it makes sense but if anyone is interested I can explain it more in depth. Thus one goals out of two today is completed!
+3. Spent three hours building a JS tic tac toe game with Martin. Learned that server is responsible for calling dfferent HTML & CSS for every page's ending(aka 'git.hub/account' or 'git.hub/pages')
+
+**Thoughts:**
++36C in Cali yesterday and today, and must I say: having a cooler is a bliss!
+
+**Link to work:**
+https://github.com/kefimochi/Variety-of-code/tree/master/Femochi's%20Colors
+
+**Plans for tomorrow:**
+
+1. Start working on lab 5, both the client and server side
+
+**Resources:**
+*None*
+
+
 ### Day 18: June 10, 2019
 
 **Plans for Today:**
