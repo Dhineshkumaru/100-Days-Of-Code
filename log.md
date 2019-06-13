@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 20: June 12, 2019
+
+**Plans for Today:**
+
+1. Start working on lab 5, both the client and server side
+
+**Today's Progress:**
+
+1. Made sure that Femohi's Colors look good on every single screen size that Google Dev Tools proposes. The only exception is how it looks on iPad Pro, b/c if it looks good on iPad Pro than its trash for the desktop. Don't know how to figure it out yet, haha
+2. Started sketching out the next 'Subscription' section in my notepad. Not exactly sure how UI will look yet but now I have a rough idea.
+
+**Thoughts:**
+Lab 5 is about working with server and client side, all on backend. It looks really intimidating just by reading the lab. Perhaps before even that, I should watch some YouTube videos in order to get my technical knowledge right.
+
+**Link to work:**
+*None*
+
+**Plans for tomorrow:**
+
+1. Start working on lab 5, both the client and server side
+
+**Resources:**
+*None*
+
+
 ### Day 19: June 11, 2019
 
 **Plans for Today:**
