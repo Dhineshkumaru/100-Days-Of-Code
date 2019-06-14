@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 21: June 13, 2019
+
+**Plans for Today:**
+
+1. Start working on lab 5, both the client and server side
+
+**Today's Progress:**
+
+1. Listened to another The Console Log episode, only 20 episodes left until catching up!
+2. Read two last Chris Ferdinandi's emails about JavaScript's better implementation for color picker and how to make an image full-width with CSS
+
+**Thoughts:**
+Had to write a 5 page economics report on the stock I've invested in, so did not have much free time today for coding :<
+
+**Link to work:**
+*None*
+
+**Plans for tomorrow:**
+
+1. Work on the next section of Femochi's colors, don't be afraid to break things antry something you have not done before :>
+2. Lab 5
+
+**Resources:**
+https://theconsolelog.com/ - Home page of The Console Log podcast
+
 ### Day 20: June 12, 2019
 
 **Plans for Today:**
