@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 22: June 14, 2019
+
+**Plans for Today:**
+
+1. Work on the next section of Femochi's colors, don't be afraid to break things antry something you have not done before :>
+2. Lab 5
+
+**Today's Progress:**
+
+1. Applied to 20 jobs today, although the original goal was just 10!
+
+**Thoughts:**
+I feel guilty for not coding but I did plenty of technical writing today :P
+
+**Link to work:**
+*None*
+
+**Plans for tomorrow:**
+
+1. Apply to another 10 job postings
+2. Start writing a tech article
+3. Apply for a talk/workshopp at Spectra Hackathon
+4. Watch videos about servers in Java and work on lab 5
+
+**Resources:**
+*None*
+
 ### Day 21: June 13, 2019
 
 **Plans for Today:**
@@ -24,6 +51,7 @@ Had to write a 5 page economics report on the stock I've invested in, so did not
 
 **Resources:**
 https://theconsolelog.com/ - Home page of The Console Log podcast
+
 
 ### Day 20: June 12, 2019
 
