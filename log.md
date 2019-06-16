@@ -1,5 +1,40 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 23: June 15, 2019
+
+**Plans for Today:**
+
+1. Apply to another 10 job postings
+2. Start writing a tech article
+3. Apply for a talk/workshopp at Spectra Hackathon
+4. Watch videos about servers in Java and work on lab 5
+
+**Today's Progress:**
+
+1. Applied to 20 jobs today, although the original goal was just 10!
+2. Constructed a simple footer for Femochi's Colors
+3. Watched quite a lot of YouTuvbe videos on various things
+4. Created a Twitter account for a cool bot idea I have in mind, yet after following 3 different tutorials I just ended up wasting 3+ hours of time since they were all outdated. Turns out 'Twit' now has new methods and there's no proper tutorials for it so I'll have to read official documentation instead. Sounds a bit scary!
+
+**Thoughts:**
+Got bangs, its my third time having them! :> Super excited yet I don't want to re-draw my avatar again this year.
+
+**Link to work:**
+https://github.com/kefimochi/Project-Showcase-Bot - Twitter Bot
+
+**Plans for tomorrow:**
+
+1. Pick 7-8 custom color pallete for Femochi's Colors, record it as variables in SCSS and use just them!
+2. Adjust footer to look even better and more professional, perhaps links would have a different colored section than 'copyright'
+
+**Resources:**
+https://www.youtube.com/watch?v=2d7s3spWAzo - Promises in JS
+https://www.youtube.com/watch?v=Eu35xM76kKY&list=PL0zVEGEvSaeF_zoW9o66wa_UCNE3a7BEr - Unit Testing I
+https://www.youtube.com/watch?v=SLwpqD8n3d0 - RRESTful APIs
+https://www.youtube.com/watch?v=GH3kJwQ7mxM&list=PLl-K7zZEsYLkbvTj8AUUCfBO7DoEHJ-ME&index=7&t=0s - How fast is SSR
+https://hackernoon.com/create-a-simple-twitter-bot-with-node-js-5b14eb006c08 - Build a Retweet bot
+
+
 ### Day 22: June 14, 2019
 
 **Plans for Today:**
