@@ -1,5 +1,35 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 24: June 16, 2019
+
+**Plans for Today:**
+
+1. Pick 7-8 custom color pallete for Femochi's Colors, record it as variables in SCSS and use just them!
+2. Adjust footer to look even better and more professional, perhaps links would have a different colored section than 'copyright'
+
+**Today's Progress:**
+
+1. Spent three hours re-watching two Java lectures about Socket and ServerSocket in order to undertsand the concepts better.
+2. Made a first pull request to the https://github.com/MCHadley/FinalProject_BookHub directory, just changed CSS a bit, but still felt great to make something better! Here's an image of how I changed it https://raw.githubusercontent.com/kefimochi/Variety-of-code/master/ffffffffffff.png, where padding in a previous search box was just too little
+3. Figured out why Twitter bot didn't work yesterday, got it to finally console log something properly. As soon as I figured out that Twitter API returns an enormous JSON object with all information I need, creating a bot became easier :D Created a test that doesn't allow to retweet retweets.
+4. Took a lot of notes on how lab 5 should be implemented, now that I have a really good understanding, its time to start coding.
+
+**Thoughts:**
+Excited to continue testing and debugging the Twitter bot!
+
+**Link to work:**
+https://github.com/kefimochi/Project-Showcase-Bot - Twitter Bot
+
+**Plans for tomorrow:**
+
+1. Code on lab 5
+2. Implement a test to only retweet with a picture url and/or a link to CodePen
+3. Figure out why the bot does not retweet instantly like other bots
+
+**Resources:**
+*None*
+
+
 ### Day 23: June 15, 2019
 
 **Plans for Today:**
