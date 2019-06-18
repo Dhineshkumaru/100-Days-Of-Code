@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log Round 2
 
+
 ### Day 24: June 16, 2019
 
 **Plans for Today:**
