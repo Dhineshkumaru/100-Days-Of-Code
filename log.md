@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 25: June 17, 2019
+
+**Plans for Today:**
+
+1. Code on lab 5
+2. Implement a test to only retweet with a picture url and/or a link to CodePen
+3. Figure out why the bot does not retweet instantly like other bots
+
+**Today's Progress:**
+
+1. Applied to 2 front end developer positions
+2. Got my first PR merged today!
+3. Had a conversation with Java's professor in order to better understand the client-server lab, still struggling with understanding of it
+
+**Thoughts:**
+Focused on Advanced Java's class today and on spending time with Ahror & Vlad after class.
+
+**Link to work:**
+*None*
+
+**Plans for tomorrow:**
+
+1. Customize the pallete for Femochi's Colors
+2. Figure out how to read Properties object, serialize it and send it to the server
+
+**Resources:**
+*None*
+
 
 ### Day 24: June 16, 2019
 
