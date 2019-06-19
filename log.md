@@ -1,5 +1,35 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 26: June 18, 2019
+
+**Plans for Today:**
+
+1. Customize the pallete for Femochi's Colors
+2. Figure out how to read Properties object, serialize it and send it to the server
+
+**Today's Progress:**
+
+1. Applied to 2 software engineer positions through writing emails
+2. Thanks to Ahror, figured out how to connect client and server together. Now I understand better the structures of the lab, so it'll be easier to work on it
+3. Listened to another Tech JR episode <3
+4. Created logic & implemented for getAllModels method where I am storing an ArrayList of all model names inside ProxyAuto, and recording them each time buildAuto method is called(the one that adds a car to the linked hash map)
+
+**Thoughts:**
+Almost at 600 followers on Twitter, wow! I keep thinking about how I'll joing Lambda School in the middle of this #100DaysOfCode challenge and what could I be working on on my 100th day :>
+
+**Link to work:**
+https://github.com/kefimochi/CIS-35B/tree/master/Lab%205%20Client - Client
+https://github.com/kefimochi/CIS-35B/tree/master/Lab%205%20Server - Server
+
+**Plans for tomorrow:**
+
+1. Figure out how to create an Automobile object out of a properties object
+2. Hopefully, finish the first major part of the lab
+
+**Resources:**
+https://www.mkyong.com/java/java-properties-file-examples/ - How to work with Java's properties
+
+
 ### Day 25: June 17, 2019
 
 **Plans for Today:**
