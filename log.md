@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 27: June 19, 2019
+
+**Plans for Today:**
+
+1. Figure out how to create an Automobile object out of a properties object
+2. Hopefully, finish the first major part of the lab
+
+**Today's Progress:**
+
+1. After hours of struggling at night and during the day, I got the first part of the lab working. Re-wrote buildAuto in order to make it work with Properties file & call a method in ProxyAuto. Only 2-3 hours away from finishing the lab.
+2. Read an article about localStorage and cookies
+
+**Thoughts:**
+Yesterday I stayed up until 3-ish am working on the lab, so today I'm going to sleep early! :D
+
+**Link to work:**
+https://github.com/kefimochi/CIS-35B/tree/master/Lab%205%20Client - Client
+https://github.com/kefimochi/CIS-35B/tree/master/Lab%205%20Server - Server
+
+**Plans for tomorrow:**
+
+1. Finish lab 5
+2. Customize the fotter for Femochi's Colors
+
+**Resources:**
+https://medium.com/datadriveninvestor/cookies-vs-local-storage-2f3732c7d977 - Cookies vs. local storage differences
+
+
 ### Day 26: June 18, 2019
 
 **Plans for Today:**
