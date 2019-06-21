@@ -1,5 +1,31 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 28: June 20, 2019
+
+**Plans for Today:**
+
+1. Finish lab 5
+2. Customize the footer for Femochi's Colors
+
+**Today's Progress:**
+
+1. Applied to two developer jobs
+2. Wrote the full logic behind the configureAuto method in SelectAuto class that prompts user to make a choice for each option set. So far it didn't work due to some IO exception but the main logic seems to be okay.
+
+**Thoughts:**
+Huge macroeconomics exam tomorrow where I must get an A in order to get an A in the class, so I spent all of my time today preparing for it!
+
+**Link to work:**
+*None*
+
+**Plans for tomorrow:**
+
+1. Figure out why I'm getting File IO exception in lab 5 and fix it
+2. Gather together all colors used in Femochi's Colors in one SASS file
+
+**Resources:**
+*None*
+
 ### Day 27: June 19, 2019
 
 **Plans for Today:**
