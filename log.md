@@ -1,30 +1,33 @@
 # 100 Days Of Code - Log Round 2
 
-### Day 28: June 20, 2019
+### Day 29: June 21, 2019
 
 **Plans for Today:**
 
 1. Finish lab 5
-2. Customize the footer for Femochi's Colors
+2. Customize the fotter for Femochi's Colors
 
 **Today's Progress:**
 
-1. Applied to two developer jobs
-2. Wrote the full logic behind the configureAuto method in SelectAuto class that prompts user to make a choice for each option set. So far it didn't work due to some IO exception but the main logic seems to be okay.
+1. Solved the IO problem, turns out all I had to do is to copy the modified Auto from the client to the server
+2. Read over lab 6 requirenments, took notes in order to remember better what is requested of me
+3. Took notes on HTTP, now all those 'req' and 'res' I kept seeing in React with HTTp make sense to me. It was also interesting to learn how client is the one always making requests or sending info to the server, which in turn either returns some data or processes data.
 
 **Thoughts:**
-Huge macroeconomics exam tomorrow where I must get an A in order to get an A in the class, so I spent all of my time today preparing for it!
+So happy to see Lab 5 working!
 
 **Link to work:**
-*None*
+https://github.com/kefimochi/CIS-35B/tree/master/Lab%205%20Client - Client
+https://github.com/kefimochi/CIS-35B/tree/master/Lab%205%20Server - Server
 
 **Plans for tomorrow:**
 
-1. Figure out why I'm getting File IO exception in lab 5 and fix it
-2. Gather together all colors used in Femochi's Colors in one SASS file
+1. Watch YouTube videos on JSp in order to get to know it, as well as read professor's notes again
+2. Only two days left before deadline, so I hope to finish lab 6 half way through
 
 **Resources:**
-*None*
+http://www.coreservlets.com/Apache-Tomcat-Tutorial/tomcat-7-with-eclipse.html
+
 
 ### Day 27: June 19, 2019
 
