@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 30: June 22, 2019
+
+**Plans for Today:**
+
+1. Watch YouTube videos on JSp in order to get to know it, as well as read professor's notes again
+2. Only two days left before deadline, so I hope to finish lab 6 half way through
+
+**Today's Progress:**
+
+1. Watched two hours worth of Java lestures about HTTP and Servlets in Java.
+2. Installed Tomcat and a newer version of Eclipse in order to make it work, set up a new web project in Eclipse as well as added Tomcat as default server.
+3. Applied to 7 jobs
+
+**Thoughts:**
+I'm not exactly sure how to even start with lab 6 haha
+
+**Link to work:**
+*None*
+
+**Plans for tomorrow:**
+
+1. Somehow figure out how lab 6 is structured and finish it
+2. Why doesn't servelt work in Eclipse? Figure out!
+
+**Resources:**
+https://www.w3schools.com/tags/ref_httpmethods.asp
+
+
 ### Day 29: June 21, 2019
 
 **Plans for Today:**
