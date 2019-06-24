@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 31: June 23, 2019
+
+**Plans for Today:**
+
+1. Somehow figure out how lab 6 is structured and finish it
+2. Why doesn't servelt work in Eclipse? Figure out!
+
+**Today's Progress:**
+
+1. Finished the last one hour Java lecture and taking notes on it
+2. Listened to another Tech Jr podcast episode that talked about freelancing and some useful tips regarding it
+
+**Thoughts:**
+*Screams in panic* All my last finals will be tomorrow before I join Lambda School, so stressed to be honest
+
+**Link to work:**
+*None*
+
+**Plans for tomorrow:**
+
+1. Survive
+2. Talk to Hung about how to start working on lab 6, since I'm *that* lost haha
+
+**Resources:**
+https://cccconfer.zoom.us/recording/play/PPpwCQ3iEIduY9PoT3LxHMtvRuE62iKmzUGJC5qSgH0c52NROcWwRgoVyx_tKyun?continueMode=true
+
+
 ### Day 30: June 22, 2019
 
 **Plans for Today:**
