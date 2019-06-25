@@ -1,5 +1,34 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 32: June 24, 2019
+
+**Plans for Today:**
+
+1. Survive
+2. Talk to Hung about how to start working on lab 6, since I'm *that* lost haha
+
+**Today's Progress:**
+
+1. Watched a variety of videos about JSP, to be honest perhaps I'd love to just do it in JavaScript outside of a college assignment
+2. Learned that JSP is kind of a similar concept to changing HTML page dynamically using JavaScript
+
+**Thoughts:**
+Wrote a letter to future self in five year, can't wait to read it again when it will be mailed to me! All my finals are over after today, so now it's time to breathe out. 
+Secret message: Надеюсь тебе интересно это читать, будущая Катя :>. Вообще К---б бака, ты стоишь лучшего!
+
+**Link to work:**
+*None*
+
+**Plans for tomorrow:**
+
+1. Do at least 3-4 Javascript 30 exercises since my goal is to finish it completely before starting Lambda School.
+2. Combine all Femochi's Colors together in one SASS file
+3. Finish a proper footer for Femochi's Colors, as well as move further with 'Subscription' section
+
+**Resources:**
+https://www.youtube.com/watch?v=EWbYj0qoNHo&list=PLEAQNNR8IlB588DQvb2wbKFQh2DviPApl&index=16 - Youtube series on JSP
+
+
 ### Day 31: June 23, 2019
 
 **Plans for Today:**
