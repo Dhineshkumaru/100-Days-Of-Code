@@ -1,5 +1,34 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 33: June 25, 2019
+
+**Plans for Today:**
+
+1. Do at least 3-4 Javascript 30 exercises since my goal is to finish it completely before starting Lambda School.
+2. Combine all Femochi's Colors together in one SASS file
+3. Finish a proper footer for Femochi's Colors, as well as move further with 'Subscription' section
+
+**Today's Progress:**
+
+1. Applied to another entry-level job
+2. Started working on the next 19th JavaScript30 exercise, yet got carried away with an interesting idea in my head to make kind of moving bubbles that would multiply by two and shrink in size every time one of the bubbles is hovered. Started to implement it, finished the CSS and HTML. 
+
+**Thoughts:**
+Wrote a letter to future self in five year, can't wait to read it again when it will be mailed to me! All my finals are over after today, so now it's time to breathe out. 
+Secret message: Надеюсь тебе интересно это читать, будущая Катя :>. Вообще К---б бака, ты стоишь лучшего!
+
+**Link to work:**
+https://codepen.io/KateEfimova/pen/RzZdKE?editors=0010
+
+**Plans for tomorrow:**
+
+1. Figure out why does forEach 'hover' event doesn't work
+2. Append a new child element whenever one of the elements is hovered
+
+**Resources:**
+https://planto-the-plant-watering-app.herokuapp.com/ - Inspiration
+
+
 ### Day 32: June 24, 2019
 
 **Plans for Today:**
