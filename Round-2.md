@@ -1,5 +1,30 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 34: June 26, 2019
+
+**Plans for Today:**
+
+1. Figure out why does forEach 'hover' event doesn't work
+2. Append a new child element whenever one of the elements is hovered
+
+**Today's Progress:**
+
+1. Finished the Tech Jr podcast, soon to start the LadyBug podcast!
+2. Turns out using forEach + event listener("click", function()) will call the function only the first n-amount of times. Instead, the way I fixed 'hover' event is through changing it to ("click", function)
+
+**Thoughts:**
+Even though I now have more free time, I spend a lot of it with friends instead of coding. Note to self: find a better balance but make sure to keep friends at the same time.
+
+**Link to work:**
+https://codepen.io/KateEfimova/pen/RzZdKE?editors=0010
+
+**Plans for tomorrow:**
+
+1. Apply to CascadiaJS conference
+
+**Resources:**
+*None*
+
 
 ### Day 33: June 25, 2019
 
