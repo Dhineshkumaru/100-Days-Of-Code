@@ -1,5 +1,6 @@
 # 100 Days Of Code - Log Round 2
 
+
 ### Day 33: June 25, 2019
 
 **Plans for Today:**
