@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 35: June 27, 2019
+
+**Plans for Today:**
+
+1. Apply to CascadiaJS conference
+
+**Today's Progress:**
+
+1. Spent time learning about hexadecimals and how to convert them to regular decimals & binary.
+2. Carefully read through the coding challenges one of the companies sent me, and started to brainstorm the logic behind the implementation. The solution would be to add 8192 to illuminate negative numbers from the 14-base system. Then convert to binary where a 0 would be entered on a 7th position, after which convert the result to the hexadecimal.
+3. Talked to Christina and Shivani from Spectra hackathon chatting about the potential structure of my Dom manipulations with JS workshop. Here's an overview of what I'm now planning on doing: quick intro to DOM & what it is, set up CodePen for following along, slowly explain every line of code as I'm typing it(have HTML&CSS ready for copy-pasting), and at the end explain rules for the "Try Yourself" challenge
+
+**Thoughts:**
+Slowly getting back into anime :>
+
+**Link to work:**
+https://codepen.io/KateEfimova/pen/RzZdKE?editors=0010
+
+**Plans for tomorrow:**
+
+1. Figure out the easiet and cleanest way to implement that hexadecimal challenge
+2. Learn about bitwise operators
+
+**Resources:**
+*None*
+
+
 ### Day 34: June 26, 2019
 
 **Plans for Today:**
