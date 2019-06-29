@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 36: June 28, 2019
+
+**Plans for Today:**
+
+1. Figure out the easiet and cleanest way to implement that hexadecimal challenge
+2. Learn about bitwise operators
+
+**Today's Progress:**
+
+1. Listened to the last Tech Junior episode + another episode of the Console Log.
+2. JavaScript's method insertBefore() seems to be like a better option for the cell division effect I'm trying to implement since it allows an object to be inserted into a specific location inside parent node.
+
+**Thoughts:**
+Nan desu ka? Why am I just watching so much anime lately? :< Starting on Monday I need to implemet a better schedule for when Lambda School starts in two weeks.
+
+**Link to work:**
+https://codepen.io/KateEfimova/pen/RzZdKE?editors=0010
+
+**Plans for tomorrow:**
+
+1. Apply to the CascadiaJS conference
+2. Code the challenge provided by one company, even if at frst the solution would not be as perfectly clean.
+
+**Resources:**
+https://developer.mozilla.org/en-US/docs/Web/API/Node/insertBefore - A cool method to use instead of 'appendChild'
+
+
 ### Day 35: June 27, 2019
 
 **Plans for Today:**
