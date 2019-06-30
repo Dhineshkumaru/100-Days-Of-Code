@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 37: June 29, 2019
+
+**Plans for Today:**
+
+1. Apply to the CascadiaJS conference
+2. Code the challenge provided by one company, even if at frst the solution would not be as perfectly clean.
+
+**Today's Progress:**
+
+1. Learned how to convert binary to hexadecimal to decimal in JavaScript
+2. Finished the encoding function I mentioned on Day 35, was pretty challenging to put it together despite knowing theoretically how it is supposed to work.
+3. Got three free Udemy courses, on which I am excited to get started!
+
+**Thoughts:**
+CascadiaJS seems to have at least 100 people who will attend, perhaps I should not apply there until my first teaching experience at Spectra Hachathon.
+
+**Link to work:**
+https://github.com/kefimochi/Variety-of-code/blob/master/Encoding%20challenge/index.js
+
+**Plans for tomorrow:**
+
+1. Finish the decoding function, add comments and send the code to the company who requested it.
+2. Read all Chris Ferdinandi's newsletters for the last week, maybe find new ideas of building something
+
+**Resources:**
+https://www.youtube.com/watch?v=Xzi4-26vdOM - Helped a lot with binary to hex to decimal conversions
+
+
 ### Day 36: June 28, 2019
 
 **Plans for Today:**
