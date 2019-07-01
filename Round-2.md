@@ -1,5 +1,36 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 38: June 30, 2019
+
+**Plans for Today:**
+
+1. Finish the decoding function, add comments and send the code to the company who requested it.
+2. Read all Chris Ferdinandi's newsletters for the last week, maybe find new ideas of building something
+
+**Today's Progress:**
+
+1. Managed to figure out how to delete a zero on the 8th place for decoding, after which writing to a new text file wa an easy skill to grasp
+2. Checked by hand for the correct solution. Noticed that my program inserts a zero on a 9th place instead of the 8th place:
+`11 01 11 011 01 11 11  => 6edf, inserts on the 9th location
+11 01 11 101 01 11 11 => 6f5f, inserts on the 8th location`
+Compared the values and figured out how to fix the problem.
+
+**Thoughts:**
+Only was at home at 8 pm after spending a whole day with friends, eating burgers, playing cards and pool and just chatting :>
+
+**Link to work:**
+https://github.com/kefimochi/Variety-of-code/blob/master/Encoding%20challenge/index.js
+
+**Plans for tomorrow:**
+
+1. Start one of the React Udemy courses I've got for free from Thomas Weibenfalk
+2. Do one or two JavaScript30 exercises by either following along or trying it out by yourself
+
+**Resources:**
+https://www.geeksforgeeks.org/javascript-program-to-write-data-in-a-text-file/ - Writing data to a text file
+https://stackoverflow.com/questions/10258828/how-to-convert-binary-string-to-decimal - Helped w/ solution
+
+
 ### Day 37: June 29, 2019
 
 **Plans for Today:**
