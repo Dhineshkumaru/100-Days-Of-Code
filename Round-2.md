@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 39: July 1, 2019
+
+**Plans for Today:**
+
+1. Start one of the React Udemy courses I've got for free from Thomas Weibenfalk
+2. Do one or two JavaScript30 exercises by either following along or trying it out by yourself
+
+**Today's Progress:**
+
+1. Watched Franziska Hinkelmann's talk about JavaScript engines where my main takeaway was to have objects of the same type(meaning w/ same properties) in order to boost the performance. In case an object doesn't have a value for a certain property, than just list it as undefined.
+2. Applied to a job and got instantly rejected in the same day.
+
+**Thoughts:**
+Organizing all my documents and notes for the last year, so I'd say I was productive in a different way today :P Took me a few hours but saved 2-3 cm of space.
+
+**Link to work:**
+*None*
+
+**Plans for tomorrow:**
+
+1. Spend 7-8 hours gathering information for my workshop at Spectra
+2. Start gathering slides and source code, create a GitHub folder with everything inside it.
+
+**Resources:**
+https://www.youtube.com/watch?v=p-iiEDtpy6I - 
+
+
 ### Day 38: June 30, 2019
 
 **Plans for Today:**
