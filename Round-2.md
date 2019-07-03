@@ -1,5 +1,34 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 40: July 2, 2019
+
+**Plans for Today:**
+
+1. Spend 7-8 hours gathering information for my workshop at Spectra
+2. Start gathering slides and source code, create a GitHub folder with everything inside it.
+
+**Today's Progress:**
+
+1. Spent 3 hours gathering material for my Web Development workshop at Spectra. Already have 2 pages of notes regarding DOM theory alone plus started to design final draft of slides. Although originally I planned to only teach JavaScript and it's DOM manipulation, but turns out I'll have to gather more beginner friendly content regarding web development overall.
+2. Martin explained how HTTP protocols connect HTML and JavaScript server-side. Built a small form that asks user's email and name and then stores it in a plain text file as a temporary database
+3.Built a beautiful UI form in order to do n exercise where I'll send it to the database myself :>
+
+**Thoughts:**
+For whatever reason once I get over a fear of starting & failing immediately, I can just get lost in time and process of creating something. Love that feeling so much, wish I had more of it with backend development too.
+
+**Link to work:**
+https://github.com/kefimochi/Variety-of-code/tree/master/Email%20Form - Email form
+
+**Plans for tomorrow:**
+
+1. Touch up on the final UI for the form.
+2. Build a small server(instead of using Live Server) and work with HTTP requests and responses in order to save the email data user enters.
+3. Go through w3schools web development intro and figure out what is the most useful material to teach.
+
+**Resources:**
+https://codepen.io/kastriotadili/pen/VQyxGw?editors=0100 - Helped to structure the actual page
+
+
 ### Day 39: July 1, 2019
 
 **Plans for Today:**
@@ -24,7 +53,7 @@ Organizing all my documents and notes for the last year, so I'd say I was produc
 2. Start gathering slides and source code, create a GitHub folder with everything inside it.
 
 **Resources:**
-https://www.youtube.com/watch?v=p-iiEDtpy6I - 
+https://www.youtube.com/watch?v=p-iiEDtpy6I
 
 
 ### Day 38: June 30, 2019
