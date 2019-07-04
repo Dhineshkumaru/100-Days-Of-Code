@@ -1,5 +1,36 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 41: July 3, 2019
+
+**Plans for Today:**
+
+1. Touch up on the final UI for the form.
+2. Build a small server(instead of using Live Server) and work with HTTP requests and responses in order to save the email data user enters.
+3. Go through w3schools web development intro and figure out what is the most useful material to teach.
+
+**Today's Progress:**
+
+1. Wrote a small JavaScript server that demonstrates HTML+CSS form page I built yesterday on the screen, while
+also being able to store th einformation user provides in a formatted text document
+2. Downloaded MongoDB for the first time and began to get familiar with it's features. Used npm install MongoDB
+to connect it to the current form I've been working on.
+3. Wrote the code that connect MongoDB to written JS server, yet encountered "DeprecationWarning: current URL string parser is deprecated, and will be removed in a future version. To use the new parser, pass option { useNewUrlParser: true } to MongoClient.connect." so will have to fix it tomorrow
+
+**Thoughts:**
+Not as productive today because of social time with friends, applied to a few local team member jobs in person by filliong out applications and sharing printed resume. Then went to a friend's house and watched JoJo's Adventures :D
+
+**Link to work:**
+https://github.com/kefimochi/Variety-of-code/tree/master/Email%20Form - Email form
+
+**Plans for tomorrow:**
+
+1. Fix the "DeprecationWarning: current URL string parser is deprecated, and will be removed in a future version. To use the new parser, pass option { useNewUrlParser: true } to MongoClient.connect." bug in the form project.
+2. Build the email form for mobile too, where a picture would go on top on a smaller screen.
+
+**Resources:**
+https://github.com/MBlore/nodejs-webserver/blob/master/index.js - Martin's repository
+
+
 ### Day 40: July 2, 2019
 
 **Plans for Today:**
