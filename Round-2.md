@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 42: July 4, 2019
+
+**Plans for Today:**
+
+1. Fix the "DeprecationWarning: current URL string parser is deprecated, and will be removed in a future version. To use the new parser, pass option { useNewUrlParser: true } to MongoClient.connect." bug in the form project.
+2. Build the email form for mobile too, where a picture would go on top on a smaller screen.
+
+**Today's Progress:**
+
+1. Turns out the bug I mentioned earlier was because I mispelled one of the variables =.= Typical day where you spend a lot of time tackling a bug and it turns out to be nothing.
+2. Listened to another The Console Log podcast
+
+**Thoughts:**
+Went to the beach with friends for the vast majority of the day.
+
+**Link to work:**
+https://github.com/kefimochi/Variety-of-code/tree/master/Email%20Form - Email form
+
+**Plans for tomorrow:**
+
+1. Gather more information fo Spectra workshop's outline. Specifically focusing on HTML and CSS for beginners.
+2. Visit Lambda School's orientation.
+
+**Resources:**
+https://github.com/MBlore/nodejs-webserver/blob/master/index.js - Martin's repository
+
+
 ### Day 41: July 3, 2019
 
 **Plans for Today:**
