@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 43: July 5, 2019
+
+**Plans for Today:**
+
+1. Gather more information for Spectra workshop's outline. Specifically focusing on HTML and CSS for beginners.
+2. Visit Lambda School's orientation.
+
+**Today's Progress:**
+
+1. Took notes during Lambda's Orientation
+2. Formatted five new slides for the Spectra's workshop touching HTML basics like attributes and tags
+
+**Thoughts:**
+Have to wake up early for an intervew at Ross tomorrow, so have to go to sleep earlier.
+
+**Link to work:**
+https://docs.google.com/presentation/d/1UUdSdYhAJ4N2ou772DmpVm8XM9ZbEd7xAGjWxDAiRNs/edit?usp=sharing - Spectra's Slides
+
+**Plans for tomorrow:**
+
+1. At least another 5 slides
+2. Decide on which project to live code during the work shop and produce a starter HTML&CSS code for it
+
+**Resources:**
+https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes - HTML Attributes
+
+
 ### Day 42: July 4, 2019
 
 **Plans for Today:**
