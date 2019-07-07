@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 44: July 6, 2019
+
+**Plans for Today:**
+
+1. At least another 5 slides
+2. Decide on which project to live code during the work shop and produce a starter HTML&CSS code for it
+
+**Today's Progress:**
+
+1. Today I sat downn and pair programmed with my friend Vlad a simple email form. He wanted to learn more about how to work with plain CSS and HTML without using any bootstrap, I tried my best explaining the child-parent relationship of div containers in order to set up some fundamental knowledge.
+2. Learned that unlike input which is unpaired tag, text area ia paired(through going over Vlad's Code)
+
+**Thoughts:**
+Last week was just an impressive amount of socializing.
+
+**Link to work:**
+https://github.com/moriBylin/Web-Dev-Exercises/tree/master/Kat's%20Example - Vlada's repo
+
+**Plans for tomorrow:**
+
+1. Decide on how to organize my new stickers
+2. Do 3-5 JavaScript30 exercises, perhaps just watch & follow along some that might not be completely useful.
+
+**Resources:**
+*None*
+
+
 ### Day 43: July 5, 2019
 
 **Plans for Today:**
