@@ -1,5 +1,34 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 45: July 7, 2019
+
+**Plans for Today:**
+
+1. Decide on how to organize my new stickers
+2. Do 3-5 JavaScript30 exercises, perhaps just watch & follow along some that might not be completely useful.
+
+**Today's Progress:**
+
+1. Coded along Wes Bos and completed eight other JavaScript30 exercises, way more than I initially expected to do today!
+2. Listened to another Console Log podcast episode
+3. Added required to the input field in the form I worked on previously, as well as figured my next steps to improve it
+4. After completing another JS30 tutorial with speech recognition I got a cute idea to do a doggo/cet that recieves a pizza when user says "Here's pizza"
+
+**Thoughts:**
+Feeling a bit anxious about Lambda. I don't really want to go over basics again, wish I could skip to the fun full stack stuff right away :>
+
+**Link to work:**
+https://github.com/kefimochi/Javascript-30 - My JS30 repo
+
+**Plans for tomorrow:**
+
+1. There are only 4 JS30 exercises left, so I want to finish them all before the beginning of Lambda at 8 am.
+2. First day of Lambda School, woohoo!
+
+**Resources:**
+https://courses.wesbos.com/account/access/5b5b629699ce1f5578c24a04/view/194158963 - JS30
+
+
 ### Day 44: July 6, 2019
 
 **Plans for Today:**
