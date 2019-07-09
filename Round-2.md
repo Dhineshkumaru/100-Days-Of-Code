@@ -1,5 +1,36 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 46: July 8, 2019
+
+**Plans for Today:**
+
+1. There are only 4 JS30 exercises left, so I want to finish them all before the beginning of Lambda at 8 am.
+2. First day of Lambda School, woohoo!
+
+**Today's Progress:**
+
+1. Submitted two Lambda School challenges, nothing I haven't seen before. Did learn about a new tag <address>
+2. Completed 4 JavaScript30 exercises, thus finishing the series. Wohoo!
+3. Made a meme about too many tabs open
+4. Learned new git commands that allow move into/from folders and create new files, before that only knew how
+to clone repos & commit to master
+
+**Thoughts:**
+Quite slow beginning at Lambda for me, yet still managed to learn something new
+
+**Link to work:**
+https://github.com/kefimochi/Javascript-30 - My JS30 repo
+https://github.com/kefimochi/Lambda-School - Lambda School repo
+
+**Plans for tomorrow:**
+
+1. Add at least 5 slides to the Spectra's presentation covering nesting & The Box model
+2. Read about how only allow certain email to be sent w/ using input form, implement it on my existing form
+
+**Resources:**
+https://courses.wesbos.com/account/access/5b5b629699ce1f5578c24a04/view/194158963 - JS30
+
+
 ### Day 45: July 7, 2019
 
 **Plans for Today:**
