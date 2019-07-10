@@ -1,5 +1,34 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 47: July 9, 2019
+
+**Plans for Today:**
+
+1. Add at least 5 slides to the Spectra's presentation covering nesting & The Box model
+2. Read about how only allow certain email to be sent w/ using input form, implement it on my existing form
+
+**Today's Progress:**
+
+1. Suffered through learning how to use `display: inline;`, `display: inline-block;` and `display: block;`. After using fleexbox it was quite hard to grasp these concepts, yet I managed to do it after sitting down and thinking about the box model & flows involved.
+2. Now I know where to find CSS Resets that reset all styling some browsers might add as default
+3. Helped someone to install Live Server and Prettier(also showed how to do so on autosave).
+
+**Thoughts:**
+Took 8 hours to finish the project instead of an assigned 4. Went from feeling relaxed to overwhelmed..if I want to get enough sleep, I'm afraid I won't have time for anything else besides Lambda!
+
+**Link to work:**
+https://github.com/kefimochi/Lambda-School - Lambda School repo
+
+**Plans for tomorrow:**
+
+1. Close at least half of my other tabs open
+2. Dig deeper into form validation
+3. Review servlets and JSP
+
+**Resources:**
+https://www.w3schools.com/css/css_boxmodel.asp - Box Model
+
+
 ### Day 46: July 8, 2019
 
 **Plans for Today:**
