@@ -1,5 +1,37 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 48: July 10, 2019
+
+**Plans for Today:**
+
+1. Close at least half of my other tabs open
+2. Dig deeper into form validation
+3. Review servlets and JSP
+
+**Today's Progress:**
+
+1. Completed the whole lambda challenge for today during lecture hours(total time: 2hrs taken), whereas everyone else just started working
+on it after 2-3 hours. Spend extra time paying attention to every single detail to simulate the design
+2. Spent 4 hours helping other students understand flexbox and hwo to think about it, extremely mentally exhausting
+3. Created "About" section for the website completely on my own, after developing a unique design for it
+4. Applied to 3 jobs
+
+**Thoughts:**
+After yesterday's 8 hour project, today it took me just 2 hours to finish the challenge! Helping people is an awesome experience but it's extremely tiring
+
+**Link to work:**
+https://lambda-school-lll.netlify.com/great-idea/about.html - Deployed at Netlify
+https://github.com/kefimochi/Lambda-School - Lambda School repo
+
+**Plans for tomorrow:**
+
+1. Get ore familiar with the use of Git in order to traverse folders
+2. Read more about Git in general
+
+**Resources:**
+*None*
+
+
 ### Day 47: July 9, 2019
 
 **Plans for Today:**
