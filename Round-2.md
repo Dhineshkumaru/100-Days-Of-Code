@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 49: July 11, 2019
+
+**Plans for Today:**
+
+1. Get ore familiar with the use of Git in order to traverse folders
+2. Read more about Git in general
+
+**Today's Progress:**
+
+1. Forked, cloned and created a separate branch as well as created pull requests for all three projects we had at Lambda. 
+2. Learned that git rebase basically 'merges' two brunches but uses an outside branch as a base to merge the master branch. Somehow already did not need to enter any logins/passwords when using Git for the last three months, still went through the process of generating an SSH key and connecting it with GitHub.
+
+**Thoughts:**
+Finished w/ Lambda early today and allowed myself time to draw!
+
+**Link to work:**
+https://github.com/kefimochi/Lambda-School - Lambda School repo
+https://github.com/kefimochi/Git-for-Web-Development-Project - Git practice
+
+**Plans for tomorrow:**
+
+1. In the evening work on the workshop structure, clean up the code for the main project
+2. Reviewall Git commits in my notes and practice with forking and creating branches
+
+**Resources:**
+*None*
+
+
 ### Day 48: July 10, 2019
 
 **Plans for Today:**
