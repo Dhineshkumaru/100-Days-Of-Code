@@ -1,5 +1,34 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 50: July 12, 2019
+
+**Plans for Today:**
+
+1. In the evening work on the workshop structure, clean up the code for the main project
+2. Reviewall Git commits in my notes and practice with forking and creating branches
+
+**Today's Progress:**
+
+1. Participated in my first Sprint Challenge at Lambda School where I worked with already given code in order to re-style and re-format it following a certain given design.
+2. For practice, created another "Contact" page in the sprint challenge where further messed with positioning and containers
+
+**Thoughts:**
+Fridays will most likely be the easiest day if I'll contibue to put 115% of work on any other day!
+
+**Link to work:**
+https://github.com/kefimochi/Sprint-Challenge--User-Interface - Sprint Challenge
+
+**Plans for tomorrow:**
+
+1. Write a workshop's summary, determine pre-requisites and reply to all related emails
+2. Finish the DOM presentation, probably around 10-15 minutes
+3. Polish code for the follow along tutorial, while also perhaps re-designing arts of it
+4. Find examples of work where what I teach will be applicable
+
+**Resources:**
+*None*
+
+
 ### Day 49: July 11, 2019
 
 **Plans for Today:**
