@@ -1,5 +1,35 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 51: July 13, 2019
+
+**Plans for Today:**
+
+1. Write a workshop's summary, determine pre-requisites and reply to all related emails
+2. Finish the DOM presentation, probably around 10-15 minutes
+3. Polish code for the follow along tutorial, while also perhaps re-designing arts of it
+4. Find examples of work where what I teach will be applicable
+
+**Today's Progress:**
+
+1. Spent five hours re-designing the drumkit code I'm going to be using for a live coding session during Spectra hackathon
+2. Let go of the old slides and already created five new slides regarding DOM manipulations w/ JS. Very close to being done with all presentation slides!
+
+**Thoughts:**
+Making a detailed bullet point list of everything that has to be done for the workshop and assigning various priority levels helped me to keep myself organzed today.
+
+**Link to work:**
+https://github.com/kefimochi/Spectra-WebDev-workshop - Folder for the workshop
+
+**Plans for tomorrow:**
+
+1. Finish all slides
+2. Add speaker's comments to every slide
+3. Write better documentation for JS challenge I'm going to be providding as an extra activity
+4. Write more thoughtful comments on finished js version of coding along live session
+
+**Resources:**
+https://www.valentinog.com/blog/dom/ - Helpful resource for presentation
+
 ### Day 50: July 12, 2019
 
 **Plans for Today:**
