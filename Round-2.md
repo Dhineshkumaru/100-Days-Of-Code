@@ -31,6 +31,8 @@ https://github.com/kefimochi/Side-projects/blob/master/Markdown-Cheatsheet.md - 
 **Resources:**
 Markdown course by Wes Bos
 
+-----
+
 ### Day 51: July 13, 2019
 
 **Plans for Today:**
@@ -61,6 +63,7 @@ https://github.com/kefimochi/Spectra-WebDev-workshop - Folder for the workshop
 **Resources:**
 https://www.valentinog.com/blog/dom/ - Helpful resource for presentation
 
+-----
 
 ### Day 50: July 12, 2019
 
@@ -90,6 +93,7 @@ https://github.com/kefimochi/Sprint-Challenge--User-Interface - Sprint Challenge
 **Resources:**
 *None*
 
+-----
 
 ### Day 49: July 11, 2019
 
@@ -118,6 +122,7 @@ https://github.com/kefimochi/Git-for-Web-Development-Project - Git practice
 **Resources:**
 *None*
 
+-----
 
 ### Day 48: July 10, 2019
 
@@ -150,6 +155,7 @@ https://github.com/kefimochi/Lambda-School - Lambda School repo
 **Resources:**
 *None*
 
+-----
 
 ### Day 47: July 9, 2019
 
@@ -179,6 +185,7 @@ https://github.com/kefimochi/Lambda-School - Lambda School repo
 **Resources:**
 https://www.w3schools.com/css/css_boxmodel.asp - Box Model
 
+-----
 
 ### Day 46: July 8, 2019
 
@@ -210,6 +217,7 @@ https://github.com/kefimochi/Lambda-School - Lambda School repo
 **Resources:**
 https://courses.wesbos.com/account/access/5b5b629699ce1f5578c24a04/view/194158963 - JS30
 
+-----
 
 ### Day 45: July 7, 2019
 
@@ -239,6 +247,7 @@ https://github.com/kefimochi/Javascript-30 - My JS30 repo
 **Resources:**
 https://courses.wesbos.com/account/access/5b5b629699ce1f5578c24a04/view/194158963 - JS30
 
+-----
 
 ### Day 44: July 6, 2019
 
@@ -266,6 +275,7 @@ https://github.com/moriBylin/Web-Dev-Exercises/tree/master/Kat's%20Example - Vla
 **Resources:**
 *None*
 
+-----
 
 ### Day 43: July 5, 2019
 
@@ -293,6 +303,7 @@ https://docs.google.com/presentation/d/1UUdSdYhAJ4N2ou772DmpVm8XM9ZbEd7xAGjWxDAi
 **Resources:**
 https://developer.mozilla.org/en-US/docs/Web/HTML/Attributes - HTML Attributes
 
+-----
 
 ### Day 42: July 4, 2019
 
@@ -320,6 +331,7 @@ https://github.com/kefimochi/Variety-of-code/tree/master/Email%20Form - Email fo
 **Resources:**
 https://github.com/MBlore/nodejs-webserver/blob/master/index.js - Martin's repository
 
+-----
 
 ### Day 41: July 3, 2019
 
@@ -351,6 +363,7 @@ https://github.com/kefimochi/Variety-of-code/tree/master/Email%20Form - Email fo
 **Resources:**
 https://github.com/MBlore/nodejs-webserver/blob/master/index.js - Martin's repository
 
+-----
 
 ### Day 40: July 2, 2019
 
@@ -380,6 +393,7 @@ https://github.com/kefimochi/Variety-of-code/tree/master/Email%20Form - Email fo
 **Resources:**
 https://codepen.io/kastriotadili/pen/VQyxGw?editors=0100 - Helped to structure the actual page
 
+-----
 
 ### Day 39: July 1, 2019
 
@@ -407,6 +421,7 @@ Organizing all my documents and notes for the last year, so I'd say I was produc
 **Resources:**
 https://www.youtube.com/watch?v=p-iiEDtpy6I
 
+-----
 
 ### Day 38: June 30, 2019
 
@@ -438,6 +453,7 @@ https://github.com/kefimochi/Variety-of-code/blob/master/Encoding%20challenge/in
 https://www.geeksforgeeks.org/javascript-program-to-write-data-in-a-text-file/ - Writing data to a text file
 https://stackoverflow.com/questions/10258828/how-to-convert-binary-string-to-decimal - Helped w/ solution
 
+-----
 
 ### Day 37: June 29, 2019
 
@@ -466,6 +482,7 @@ https://github.com/kefimochi/Variety-of-code/blob/master/Encoding%20challenge/in
 **Resources:**
 https://www.youtube.com/watch?v=Xzi4-26vdOM - Helped a lot with binary to hex to decimal conversions
 
+-----
 
 ### Day 36: June 28, 2019
 
@@ -493,6 +510,7 @@ https://codepen.io/KateEfimova/pen/RzZdKE?editors=0010
 **Resources:**
 https://developer.mozilla.org/en-US/docs/Web/API/Node/insertBefore - A cool method to use instead of 'appendChild'
 
+-----
 
 ### Day 35: June 27, 2019
 
@@ -520,6 +538,7 @@ https://codepen.io/KateEfimova/pen/RzZdKE?editors=0010
 **Resources:**
 *None*
 
+-----
 
 ### Day 34: June 26, 2019
 
@@ -546,6 +565,7 @@ https://codepen.io/KateEfimova/pen/RzZdKE?editors=0010
 **Resources:**
 *None*
 
+-----
 
 ### Day 33: June 25, 2019
 
@@ -575,6 +595,7 @@ https://codepen.io/KateEfimova/pen/RzZdKE?editors=0010
 **Resources:**
 https://planto-the-plant-watering-app.herokuapp.com/ - Inspiration
 
+-----
 
 ### Day 32: June 24, 2019
 
@@ -604,6 +625,7 @@ Secret message: Надеюсь тебе интересно это читать, 
 **Resources:**
 https://www.youtube.com/watch?v=EWbYj0qoNHo&list=PLEAQNNR8IlB588DQvb2wbKFQh2DviPApl&index=16 - Youtube series on JSP
 
+-----
 
 ### Day 31: June 23, 2019
 
@@ -631,6 +653,7 @@ https://www.youtube.com/watch?v=EWbYj0qoNHo&list=PLEAQNNR8IlB588DQvb2wbKFQh2DviP
 **Resources:**
 https://cccconfer.zoom.us/recording/play/PPpwCQ3iEIduY9PoT3LxHMtvRuE62iKmzUGJC5qSgH0c52NROcWwRgoVyx_tKyun?continueMode=true
 
+-----
 
 ### Day 30: June 22, 2019
 
@@ -659,6 +682,7 @@ I'm not exactly sure how to even start with lab 6 haha
 **Resources:**
 https://www.w3schools.com/tags/ref_httpmethods.asp
 
+-----
 
 ### Day 29: June 21, 2019
 
@@ -688,6 +712,7 @@ https://github.com/kefimochi/CIS-35B/tree/master/Lab%205%20Server - Server
 **Resources:**
 http://www.coreservlets.com/Apache-Tomcat-Tutorial/tomcat-7-with-eclipse.html
 
+-----
 
 ### Day 27: June 19, 2019
 
@@ -716,6 +741,7 @@ https://github.com/kefimochi/CIS-35B/tree/master/Lab%205%20Server - Server
 **Resources:**
 https://medium.com/datadriveninvestor/cookies-vs-local-storage-2f3732c7d977 - Cookies vs. local storage differences
 
+-----
 
 ### Day 26: June 18, 2019
 
@@ -746,6 +772,7 @@ https://github.com/kefimochi/CIS-35B/tree/master/Lab%205%20Server - Server
 **Resources:**
 https://www.mkyong.com/java/java-properties-file-examples/ - How to work with Java's properties
 
+-----
 
 ### Day 25: June 17, 2019
 
@@ -775,6 +802,7 @@ Focused on Advanced Java's class today and on spending time with Ahror & Vlad af
 **Resources:**
 *None*
 
+-----
 
 ### Day 24: June 16, 2019
 
@@ -805,6 +833,7 @@ https://github.com/kefimochi/Project-Showcase-Bot - Twitter Bot
 **Resources:**
 *None*
 
+-----
 
 ### Day 23: June 15, 2019
 
@@ -840,6 +869,7 @@ https://www.youtube.com/watch?v=SLwpqD8n3d0 - RRESTful APIs
 https://www.youtube.com/watch?v=GH3kJwQ7mxM&list=PLl-K7zZEsYLkbvTj8AUUCfBO7DoEHJ-ME&index=7&t=0s - How fast is SSR
 https://hackernoon.com/create-a-simple-twitter-bot-with-node-js-5b14eb006c08 - Build a Retweet bot
 
+-----
 
 ### Day 22: June 14, 2019
 
@@ -868,6 +898,8 @@ I feel guilty for not coding but I did plenty of technical writing today :P
 **Resources:**
 *None*
 
+-----
+
 ### Day 21: June 13, 2019
 
 **Plans for Today:**
@@ -893,6 +925,7 @@ Had to write a 5 page economics report on the stock I've invested in, so did not
 **Resources:**
 https://theconsolelog.com/ - Home page of The Console Log podcast
 
+-----
 
 ### Day 20: June 12, 2019
 
@@ -918,6 +951,7 @@ Lab 5 is about working with server and client side, all on backend. It looks rea
 **Resources:**
 *None*
 
+-----
 
 ### Day 19: June 11, 2019
 
@@ -946,6 +980,7 @@ https://github.com/kefimochi/Variety-of-code/tree/master/Femochi's%20Colors
 **Resources:**
 *None*
 
+-----
 
 ### Day 18: June 10, 2019
 
@@ -973,6 +1008,7 @@ https://github.com/kefimochi/Variety-of-code/tree/master/Femochi's%20Colors
 **Resources:**
 https://medium.com/@PavelLaptev/css-weekly-2-an-image-on-the-left-text-on-the-left-a5e59b2acdb5 - Article about how to make picture float next to the text
 
+-----
 
 ### Day 17: June 9, 2019
 
@@ -999,6 +1035,7 @@ https://github.com/kefimochi/Variety-of-code/tree/master/Femochi's%20Colors
 **Resources:**
 https://itnext.io/starting-with-sass-116f4ecb682d - Article about SASS
 
+-----
 
 ### Day 16: June 8, 2019
 
@@ -1026,6 +1063,7 @@ https://github.com/kefimochi/Variety-of-code/tree/master/Random%20Background%20C
 **Resources:**
 https://techoverflow.net/2018/03/30/copying-strings-to-the-clipboard-using-pure-javascript/ - Copying strings to the clipboard
 
+-----
 
 ### Day 15: June 7, 2019
 
@@ -1055,6 +1093,7 @@ Found a cool comic called "Ava's Demon" and fell in love with the artstyle. Bing
 **Resources:**
 https://www.youtube.com/watch?v=et8xNAc2ic8 - WTFJS
 
+-----
 
 ### Day 14: June 6, 2019
 
@@ -1086,6 +1125,7 @@ https://github.com/kefimochi/Variety-of-code/tree/master/Random%20Background%20C
 **Resources:**
 https://www.destroyallsoftware.com/talks/wat - Wat at JS
 
+-----
 
 ### Day 13: June 5, 2019
 
@@ -1113,6 +1153,7 @@ https://github.com/kefimochi/Variety-of-code/tree/master/Random%20Background%20C
 **Resources:**
 https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_document_createtextnode2 - Appending to innerHTML of the page
 
+-----
 
 ### Day 12: June 4, 2019
 
@@ -1143,6 +1184,7 @@ https://www.youtube.com/watch?v=jOupHNvDIq8 - How Node.js works under the hood
 https://www.youtube.com/watch?v=TlB_eWDSMt4 - Learning Node.js in one hour
 https://www.youtube.com/watch?v=SAh30bOsvgU - Apple's WWDC19 keynote
 
+-----
 
 ### Day 11: June 3, 2019
 
@@ -1170,6 +1212,7 @@ Only got an hour in the evening to code/learn something new, so I decided to adv
 **Resources:**
 https://www.youtube.com/watch?v=U8XF6AFGqlc - Intro to Node.js and use of servers
 
+-----
 
 ### Day 10: June 2, 2019
 
@@ -1197,6 +1240,7 @@ https://github.com/kefimochi/CIS-35B/tree/master/Lab%204
 **Resources:**
 https://www.youtube.com/watch?v=TCd8QIS-2KI - Multithreading
 
+-----
 
 ### Day 9: June 1, 2019
 
@@ -1230,6 +1274,7 @@ https://www.youtube.com/watch?v=8bSlaGsG4dk - Good video explaining Java multith
 https://www.youtube.com/watch?v=oUSvlrDTLi4 - Vanilla js smooth scroll
 http://gizma.com/easing/ - Great resource for easing animations(!)
 
+-----
 
 ### Day 8: May 31, 2019
 
@@ -1255,6 +1300,7 @@ Damn, I have never really followed my plans :D Perhaps I should start setting mo
 **Resources:**
 https://blog.logrocket.com/a-complete-guide-to-threads-in-node-js-4fa3898fe74f/ - Multithreading in Node.js
 
+-----
 
 ### Day 7: May 30, 2019
 
@@ -1282,6 +1328,7 @@ https://github.com/kefimochi/Variety-of-code/tree/master/Femochi's%20Colors
 **Resources:**
 https://medium.com/techtrument/multithreading-javascript-46156179cf9a - Web workers in JavaScript
 
+-----
 
 ### Day 6: May 29, 2019
 
@@ -1310,6 +1357,7 @@ https://github.com/kefimochi/Variety-of-code/tree/master/Femochi's%20Colors
 **Resources:**
 https://pjdwebdesign.com/ - Helpful and inspiring
 
+-----
 
 ### Day 5: May 28, 2019
 
@@ -1338,6 +1386,7 @@ Spent a lot of time on writing a three page Pop Culture midterm today.
 **Resources:**
 *None*
 
+-----
 
 ### Day 4: May 27, 2019
 
@@ -1367,6 +1416,7 @@ Went to play bouling with my friends. The amount of CSS code(~500 lines) I have 
 **Resources:**
 *None*
 
+-----
 
 ### Day 3: May 26, 2019
 
@@ -1395,6 +1445,7 @@ I'm getting a huge feeling of dissatisfaction at night right now when looking ba
 **Resources:**
 - https://www.youtube.com/watch?v=Xj1uYKa8rIw - Multithreading in Java
 
+-----
 
 ### Day 2: May 25, 2019
 
@@ -1423,6 +1474,8 @@ https://github.com/kefimochi/MDN-Search/tree/master/V.1.2-UX%20Friendly
 
 **Resources:**
 - https://codepen.io/KateEfimova/pen/dEemmQ - Found this code that contains an answer to what I'm trying to build
+
+-----
 
 ### Day 1: May 24, 2019
 
