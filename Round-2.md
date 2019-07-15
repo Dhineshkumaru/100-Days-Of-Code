@@ -1,5 +1,36 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 52: July 14, 2019
+
+**Plans for Today:**
+
+1. Finish all slides
+2. Add speaker's comments to every slide
+3. Write better documentation for JS challenge I'm going to be providding as an extra activity
+4. Write more thoughtful comments on finished js version of coding along live session
+
+**Today's Progress:**
+
+1. Added some new slides, polished all of them. Decided to go w/ OnePlu's website in order to show some click and on scroll events.
+2. Reduced my old JS code for the drumkit exercise by about 7 lines, back in February I didn't know about automation and how to better use console.log() as a tool.
+3. Watched 9 out of 10 Wes Bos' markdown couse while also taking notes and creating a document that I'll use as a cheatsheet.
+
+**Thoughts:**
+Overall, a productive day!
+
+**Link to work:**
+https://github.com/kefimochi/Spectra-WebDev-workshop - Folder for the workshop
+https://github.com/kefimochi/Side-projects/blob/master/Markdown-Cheatsheet.md - Markdown cheatsheed by me
+
+**Plans for tomorrow:**
+
+1. Practice mobile first web design and implementation
+2. Finish the markdown cheatsheet and share it on Twitter
+3. Read a few articles about how to optimally structure markdown for tech related articles
+
+**Resources:**
+Markdown course by Wes Bos
+
 ### Day 51: July 13, 2019
 
 **Plans for Today:**
@@ -29,6 +60,7 @@ https://github.com/kefimochi/Spectra-WebDev-workshop - Folder for the workshop
 
 **Resources:**
 https://www.valentinog.com/blog/dom/ - Helpful resource for presentation
+
 
 ### Day 50: July 12, 2019
 
