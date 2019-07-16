@@ -4,6 +4,37 @@
 
 **Plans for Today:**
 
+1. Practice mobile first web design and implementation
+2. Finish the markdown cheatsheet and share it on Twitter
+3. Read a few articles about how to optimally structure markdown for tech related articles
+
+**Today's Progress:**
+
+1. Finished the markdown cheatsheet and a corresponding course by Wes Bos. 
+2. Struggled to add new code to an already existed set of styles, so started writing navigation bar from a scratch again. 
+3. Stayed up late today in order to do a bunch of extra features on Lambda's challenge, like a nav bar that can be toggled using JavaScript and a clip-path that looks parabolic.
+
+**Thoughts:**
+Bought myself some treats today! Yay, new art supplies :P
+
+**Link to work:**
+https://github.com/kefimochi/Lambda-School/tree/master/Week%202/Resposnive-Web-Design - Challenge's repo
+
+**Plans for tomorrow:**
+
+1. Get more Markdown research down
+2. Maybe add a special highlight to a link element where user is currently in
+3. Write a description and requirenments for your workshop(!)
+
+**Resources:**
+https://bennettfeely.com/clippy/ - Great tool for shapes
+
+-----
+
+### Day 52: July 14, 2019
+
+**Plans for Today:**
+
 1. Finish all slides
 2. Add speaker's comments to every slide
 3. Write better documentation for JS challenge I'm going to be providding as an extra activity
