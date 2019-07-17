@@ -1,6 +1,35 @@
 # 100 Days Of Code - Log Round 2
 
-### Day 52: July 14, 2019
+### Day 54: July 16, 2019
+
+**Plans for Today:**
+
+1. Get more Markdown research down
+2. Maybe add a special highlight to a link element where user is currently in
+3. Write a description and requirenments for your workshop(!)
+
+**Today's Progress:**
+
+1. Spent many hours working on my portfolio, started with an already existing template and re-designed it to fit my requirenments
+2. Wrote workshop's description and pre-requisites
+
+**Thoughts:**
+Even if that portfolio won't last long, I still very much like this design!
+
+**Link to work:**
+kefimochi.github.io - My new portfolio! <3
+
+**Plans for tomorrow:**
+
+1. Practice workshop's presentation
+2. Research about LESS and how it's different/similiar to SASS
+
+**Resources:**
+https://bennettfeely.com/clippy/ - Great tool for shapes
+
+-----
+
+### Day 53: July 15, 2019
 
 **Plans for Today:**
 
