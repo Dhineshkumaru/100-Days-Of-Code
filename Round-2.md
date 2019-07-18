@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 55: July 17, 2019
+
+**Plans for Today:**
+
+1. Practice workshop's presentation
+2. Research about LESS and how it's different/similiar to SASS
+
+**Today's Progress:**
+
+1. Designed a digital resume and built it completely from scratchi ysung LESS for the first time.
+2. Took my first try at presenting the wrokshop
+
+**Thoughts:**
+So tired today 
+
+**Link to work:**
+https://kefimochi-lambda.netlify.com/week%202/digital%20resume/ - My new digital resume! <3
+
+**Plans for tomorrow:**
+
+1. Not die, keep practising presentation
+
+**Resources:**
+https://bennettfeely.com/clippy/ - Great tool for shapes
+
+-----
+
 ### Day 54: July 16, 2019
 
 **Plans for Today:**
