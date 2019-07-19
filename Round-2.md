@@ -1,5 +1,35 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 56: July 18, 2019
+
+**Plans for Today:**
+
+1. Practice workshop's presentation
+
+**Today's Progress:**
+
+1. Learned about the use of parametric mixins in LESS
+2. Applied to 5 jobs today, hopefully if I keep it consistent than I'll be able to find a job relatively easy
+3. Implemented a webpage w/ re-using multiple components using LESS
+
+**Thoughts:**
+Felt a bit burned out today, getting tired of logging everything on GitHub
+
+**Link to work:**
+https://github.com/kefimochi/Preprocessing-II
+
+**Plans for tomorrow:**
+
+1. Do the 2nd Lambda challenge
+2. Test if there's a better way of re-writing workshop code
+3. Practice presenting
+
+**Resources:**
+https://carbon.now.sh - Pretty screenshots of code
+
+-----
+
+
 ### Day 55: July 17, 2019
 
 **Plans for Today:**
