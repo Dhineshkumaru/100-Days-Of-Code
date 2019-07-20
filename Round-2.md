@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 57: July 19, 2019
+
+**Plans for Today:**
+
+1. Do the 2nd Lambda challenge
+2. Test if there's a better way of re-writing workshop code
+3. Practice presenting
+
+**Today's Progress:**
+
+1. Practiced DOM manipulation workshop w/ Roman Jordan, still waiting for feedback
+2. Finished all the MVP and stretch goals for today's Lambda sprint challenge :>
+
+**Thoughts:**
+Why do I walys open 100+ tabs even when I directly tell myself not to do that?
+
+**Link to work:**
+https://github.com/kefimochi/Sprint-Challenge--Advanced-CSS
+
+**Plans for tomorrow:**
+1. Present at Spectra!!!!
+2. Visit other workshops and follow along w/ the instructor, perhaps take notes on important key idead
+
+**Resources:**
+*None*
+
+-----
+
 ### Day 56: July 18, 2019
 
 **Plans for Today:**
