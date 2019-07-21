@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 58: July 20, 2019
+
+**Plans for Today:**
+
+1. Present at Spectra!!!!
+2. Visit other workshops and follow along w/ the instructor, perhaps take notes on important key idead
+
+**Today's Progress:**
+
+1. Further enchanced my network by talking to various recruiters at Spectra, getting their contact cards and contacting them later.
+2. Presented "DOM manipulations with JavaScript", the feedback was overwhelmingly positive
+
+**Thoughts:**
+So excited to get some rest tomorrow
+
+**Link to work:**
+https://github.com/kefimochi/Sprint-Challenge--Advanced-CSS
+
+**Plans for tomorrow:**
+
+1. Review some JavaScript before JS's section at Lambda
+2. Start writing an article about either experience at Spectra or what I learned from presenting
+
+**Resources:**
+*None*
+
+-----
+
 ### Day 57: July 19, 2019
 
 **Plans for Today:**
@@ -20,6 +48,7 @@ Why do I walys open 100+ tabs even when I directly tell myself not to do that?
 https://github.com/kefimochi/Sprint-Challenge--Advanced-CSS
 
 **Plans for tomorrow:**
+
 1. Present at Spectra!!!!
 2. Visit other workshops and follow along w/ the instructor, perhaps take notes on important key idead
 
