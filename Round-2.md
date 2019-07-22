@@ -1,5 +1,32 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 59: July 21, 2019
+
+**Plans for Today:**
+
+1. Review some JavaScript before JS's section at Lambda
+2. Start writing an article about either experience at Spectra or what I learned from presenting
+
+**Today's Progress:**
+
+1. Sketched out Flexbox with Cates in my notepad, just brainstorming ideas
+2. Relaxed after yesterday's presentation
+
+**Thoughts:**
+So excited to get some rest tomorrow
+
+**Link to work:**
+*None*
+
+**Plans for tomorrow:**
+
+1. Continue working on "Undertsnading Flexbox with Cats"
+
+**Resources:**
+*None*
+
+-----
+
 ### Day 58: July 20, 2019
 
 **Plans for Today:**
