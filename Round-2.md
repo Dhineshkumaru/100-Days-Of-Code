@@ -1,5 +1,33 @@
 # 100 Days Of Code - Log Round 2
 
+### Day 60: July 22, 2019
+
+**Plans for Today:**
+
+1. Continue working on "Undertsnading Flexbox with Cats"
+
+**Today's Progress:**
+
+1. Further brainstormed "Flexbox w/ cats" and structured the whole thing into 3 parts.
+2. Picked a header photo, wrote the introduction to the whole series and Part 1. Furthermore, began introducing the 'cats and boxes' concepts.
+3. Finished all JS Lambda challenges and stretch goals before a deadline at 4pm.
+
+**Thoughts:**
+This tutoria looks quite appealing both in terms of visual content and th way it's written. Hopefully people will like it!
+
+**Link to work:**
+https://codepen.io/KateEfimova/pen/NQxNVp?editors=0100 - CodePen for 1st show off of original positioning
+
+**Plans for tomorrow:**
+
+1. Get to the actual flexbox part of writing the tutorials
+2. Solve a challenge or two with JavaScript tha Lambda provides every day
+
+**Resources:**
+*None*
+
+-----
+
 ### Day 59: July 21, 2019
 
 **Plans for Today:**
@@ -9,7 +37,7 @@
 
 **Today's Progress:**
 
-1. Sketched out Flexbox with Cates in my notepad, just brainstorming ideas
+1. Sketched out Flexbox with Cats in my notepad, just brainstorming ideas
 2. Relaxed after yesterday's presentation
 
 **Thoughts:**
